@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mv_home_bNavB"
+        android:icon="?attr/actionModeCopyDrawable"
+        android:title="Home" />
+    <item
+        android:id="@+id/mv_search_bNavB"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search" />
+    <item
+        android:id="@+id/mv_profile_bNavB"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Profile" />
+    <item
+        android:id="@+id/mv_settings_bNavB"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Settings" />
+</menu>
